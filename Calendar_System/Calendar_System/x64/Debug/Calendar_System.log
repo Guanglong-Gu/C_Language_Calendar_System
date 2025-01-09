@@ -1,0 +1,6 @@
+﻿  Calendar_System.cpp
+D:\YORN\OneDrive - YoRn66666666\CODE\cpp CODE\Calendar_System\Calendar_System.cpp(207,9): warning C4005: “TABLE_SIZE”: 宏重定义
+      D:\YORN\OneDrive - YoRn66666666\CODE\cpp CODE\Calendar_System\Calendar_System.cpp(18,9):
+      参见“TABLE_SIZE”的前一个定义
+  
+  Calendar_System.vcxproj -> D:\YORN\OneDrive - YoRn66666666\CODE\cpp CODE\Calendar_System\x64\Debug\Calendar_System.exe
